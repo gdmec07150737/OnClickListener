@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button" type="id">pgc</item>
+    <item name="button2" type="id">pgc2</item>
+    <item name="button3" type="id">pgc3</item>
+</resources>
